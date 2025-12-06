@@ -1,0 +1,6 @@
+Ouvrage;f47ac10b-58cc-4372-a567-0e02b2c3d479;Les Misérables;Victor Hugo;1862;1488
+Ouvrage;550e8400-e29b-41d4-a716-446655440000;Le Petit Prince;Antoine de Saint-Exupéry;1943;96
+Revue;6ba7b810-9dad-11d1-80b4-00c04fd430c8;National Geographic;Various Authors;2023;150
+Revue;6ba7b811-9dad-11d1-80b4-00c04fd430c9;Science & Vie;Équipe éditoriale;2024;250
+FichierPDF;7c9e6679-7425-40de-944b-e07fc1f90ae7;Guide C# Programming;Microsoft;2023;15.5
+FichierPDF;7c9e6679-7425-40de-944b-e07fc1f90ae8;Machine Learning Basics;Andrew Ng;2022;25.3

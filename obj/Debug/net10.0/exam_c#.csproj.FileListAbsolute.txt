@@ -1,0 +1,14 @@
+C:\Users\Victus\Desktop\exam_c#\exam_c#\bin\Debug\net10.0\exam_c#.exe
+C:\Users\Victus\Desktop\exam_c#\exam_c#\bin\Debug\net10.0\exam_c#.deps.json
+C:\Users\Victus\Desktop\exam_c#\exam_c#\bin\Debug\net10.0\exam_c#.runtimeconfig.json
+C:\Users\Victus\Desktop\exam_c#\exam_c#\bin\Debug\net10.0\exam_c#.dll
+C:\Users\Victus\Desktop\exam_c#\exam_c#\bin\Debug\net10.0\exam_c#.pdb
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\exam_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\exam_c#.AssemblyInfoInputs.cache
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\exam_c#.AssemblyInfo.cs
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\exam_c#.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\exam_c#.dll
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\refint\exam_c#.dll
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\exam_c#.pdb
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\exam_c#.genruntimeconfig.cache
+C:\Users\Victus\Desktop\exam_c#\exam_c#\obj\Debug\net10.0\ref\exam_c#.dll
